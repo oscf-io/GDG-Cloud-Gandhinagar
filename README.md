@@ -1,46 +1,55 @@
-
 # GDG Cloud Gandhinagar Community Repository
 
-## Introduction
+Welcome to the GDG Cloud Gandhinagar Community GitHub repository! We're dedicated to sharing knowledge and resources about Google Cloud Platform (GCP) best practices, hands-on labs, and fostering networking opportunities. This repository serves as a central hub for our community's events, sessions, workshops, and related resources.
 
-Welcome to the GDG Cloud Gandhinagar Community GitHub repository! This repository is dedicated to sharing knowledge, organizing events, and maintaining records related to Google Cloud Platform (GCP) best practices, hands-on labs, and networking opportunities.
+## About GDG Cloud Gandhinagar Community
 
-## Repository Structure
+GDG Cloud Gandhinagar Community is a group of passionate individuals interested in Google Cloud technologies. Our mission is to facilitate learning, collaboration, and networking among GCP enthusiasts. Join us in exploring the vast world of Google Cloud!
 
-- **/events:** This directory contains information about past and upcoming events organized by GDG Cloud Gandhinagar Community. Each event has its own folder, named with the event's date and title.
-  
-- **/sessions:** Here, you can find presentations, slides, and other materials from our sessions and workshops.
+## Table of Contents
 
-- **/reports:** This directory holds reports and summaries of our past events and workshops.
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
+- [Maintaining Event Reports](#maintaining-event-reports)
 
-- **/contributing:** This folder contains guidelines and information for contributors who wish to get involved in GDG Cloud Gandhinagar Community.
+## Getting Started
 
-## Contribution Guidelines
+To get started with GDG Cloud Gandhinagar Community, follow these steps:
 
-We welcome contributions from the community to help us grow and provide valuable resources to others. If you'd like to contribute, please follow these guidelines:
+1. **Star** this repository to stay updated on our latest activities.
+2. **Fork** this repository if you plan to contribute.
 
-1. Fork this repository.
+## Contributing
 
-2. Create a new branch for your contribution: `git checkout -b feature/your-feature`.
+We welcome contributions from the community! If you'd like to contribute to GDG Cloud Gandhinagar Community, please follow these guidelines:
 
-3. Make your changes, whether it's adding new content, fixing typos, or improving existing materials.
+1. Check the [issues](https://github.com/oscf-io/GDG-Cloud-Gandhinagar/issues) tab for open tasks or create a new issue for your proposal.
+2. Fork the repository to your GitHub account.
+3. Clone your fork to your local machine: `git clone https://github.com/YourUsername/GDG-Cloud-Gandhinagar.git`
+4. Create a new branch for your contribution: `git checkout -b feature/YourFeatureName`
+5. Make your changes and commit them with a clear and concise message.
+6. Push your changes to your fork: `git push origin feature/YourFeatureName`
+7. Create a pull request (PR) to the main repository's `main` branch.
 
-4. Commit your changes with a clear and concise message: `git commit -m "Add your message here"`.
-
-5. Push your changes to your forked repository: `git push origin feature/your-feature`.
-
-6. Open a pull request (PR) to the `main` branch of the GDG Cloud Gandhinagar Community repository.
-
-7. Our team will review your PR, and once it's approved, your changes will be merged.
+Our maintainers will review your PR and provide feedback.
 
 ## License
 
-This repository is licensed under the MIT License. You can find the full license text in the [LICENSE](LICENSE) file.
+This repository is licensed under the [MIT License](LICENSE).
 
-## Get Involved
+## Maintaining Event Reports
 
-Join our GDG Cloud Gandhinagar Community and be part of our mission to share knowledge and create networking opportunities for Google Cloud enthusiasts. Connect with us on [Bevy](https://gdg.community.dev/gdg-cloud-gandhinagar/) to stay updated on upcoming events and sessions.
+We keep detailed records of our community events and activities. You can find reports, slides, and other resources in the [`event-reports`](event-reports) directory.
 
-Happy collaborating and learning together! 🚀
+If you've hosted or attended a community event, please contribute by adding your event report to this directory. Follow these steps:
 
----
+1. Create a new directory inside `event-reports` with a clear name indicating the event's date and title.
+2. Inside the event directory, include your report, slides, and any other relevant files.
+3. Update the [`README.md`](event-reports/README.md) in `event-reports` to list your event's details.
+
+Thank you for helping us maintain a comprehensive record of our community's journey!
+
+For any questions, feel free to contact us via [hello@nomadicmehul.com](mailto:hello@nomadicmehul.com).
+
+Happy learning and collaborating with GDG Cloud Gandhinagar Community!
