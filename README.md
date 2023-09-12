@@ -26,7 +26,7 @@ We welcome contributions from the community! If you'd like to contribute to GDG 
 
 1. Check the [issues](https://github.com/oscf-io/GDG-Cloud-Gandhinagar/issues) tab for open tasks or create a new issue for your proposal.
 2. Fork the repository to your GitHub account.
-3. Clone your fork to your local machine: `git clone https://github.com/YourUsername/GDG-Cloud-Gandhinagar.git`
+3. Clone your fork to your local machine: `git clone https://github.com/oscf-io/GDG-Cloud-Gandhinagar.git`
 4. Create a new branch for your contribution: `git checkout -b feature/YourFeatureName`
 5. Make your changes and commit them with a clear and concise message.
 6. Push your changes to your fork: `git push origin feature/YourFeatureName`
